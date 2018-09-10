@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="perftestanalysis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../perftestanalysis/out/artifacts/perftestanalysis_jar/perftestanalysis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
